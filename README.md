@@ -6,12 +6,15 @@ Analisis estatico:
 	apktool
 	AndoidManifest.xml
 	Java Decompiler
+	
 ANalisis Dinamico:
 	Genymotion
 	PCAPdroid
+
 Kali Linux:
 	nmap
 	adb
+	
 Trafico: 
 	Shodan
 	Firefox/Wappalyzer
@@ -24,6 +27,7 @@ Trafico:
 	git- dumper
 	gobuster
 	osint -> github 
+	
 Fuerza Bruta:
 	Burpsuite pro 
 		- Proxy
