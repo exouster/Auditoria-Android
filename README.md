@@ -7,7 +7,7 @@ Analisis estatico:
 	AndoidManifest.xml
 	Java Decompiler
 	
-ANalisis Dinamico:
+Analisis Dinamico:
 	Genymotion
 	PCAPdroid
 
